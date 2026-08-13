@@ -2,3 +2,7 @@
 This is my first Git Repository. And I am reviewing right now.
 <br>
 Aurthor - Anju 
+# Teacher
+ANJU BALODA
+# Student
+pritam
